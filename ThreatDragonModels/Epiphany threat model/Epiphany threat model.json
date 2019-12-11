@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Epiphany threat model",
+    "owner": "Scott"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Epiphany architecture",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Scott"
+  }
+}
